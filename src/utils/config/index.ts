@@ -9,7 +9,6 @@ const {
    REACT_APP_MEASUREMENT_ID
  } = process.env
 
-console.log(REACT_FIREBASE_URL, "<< ini")
 
 export {
    REACT_FIREBASE_URL,
